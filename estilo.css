@@ -4,4 +4,15 @@ color:rgb(166, 216, 247);
 text-align: center;
 margin: 50px 0;
 font-size: 20px;
+
 }
+main{
+  max-width: 90%;
+}
+button{
+background-color: rgb(30, 150, 225);
+color:rgb(166, 216, 247);
+padding: 10px;
+}
+
+

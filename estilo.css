@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
 body {
 background-color: rgb(41, 4, 121);
 color:rgb(166, 216, 247);
 text-align: center;
 margin: 50px 0;
 font-size: 20px;
-
+font-family: "EB Garamond", serif;
 }
 main{
   max-width: 90%;

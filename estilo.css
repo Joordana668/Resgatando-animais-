@@ -17,9 +17,11 @@ color:rgb(166, 216, 247);
 padding: 10px;
 }
 .img01{
- width: %;
-
-
-
+ width: 50%;
 }
-
+.passo{
+display: none;
+}
+  .passo.ativo{
+display: block;
+  }

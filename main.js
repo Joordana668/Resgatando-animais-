@@ -1,1 +1,1 @@
-alert("teste")
+const avanca = document
